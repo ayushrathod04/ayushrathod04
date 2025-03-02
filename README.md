@@ -1,7 +1,7 @@
 # Hi there! I'm Ayush Rathod, a Computer Science Student 👋
 
 <!-- Background Image -->
-<img src="https://source.unsplash.com/1600x400/?technology,coding" width="100%">
+<img src="<img src="https://i.redd.it/g38817mqb1361.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0.5px 0px; width: 351px;" alt="Github Wallpaper [1920x1080] : r/wallpaper" jsname="kn3ccd" aria-hidden="false">">
 
 <!-- Profile Image -->
 <p align="center">
