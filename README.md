@@ -1,6 +1,12 @@
 # Hi there! I'm Ayush Rathod, a Computer Science Student 👋
 
+<!-- Background Image -->
 <img src="https://source.unsplash.com/1600x400/?technology,coding" width="100%">
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://your-profile-image-link.com" width="150" height="150" style="border-radius: 50%;" alt="Ayush Rathod">
+</p>
 
 ## 🚀 Skills
 
