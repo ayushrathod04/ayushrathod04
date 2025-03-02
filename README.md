@@ -2,7 +2,7 @@
 
 <!-- Background Image -->
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?technology,coding,ai" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/C561BAQGjy1H9RWOWRw/company-background_10000/company-background_10000/0/1652819935509/compscitorontomet_cover?e=2147483647&amp;v=beta&amp;t=NrGqxpWlEoB8xsbRob-2Qa36sqHl2t_CEL86tG9Roio" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1500px; height: 117px; margin: 14.5px 0px; width: 351px;" alt="Computer Science at Toronto Metropolitan University Employees, Location,  Alumni | LinkedIn" jsname="kn3ccd" aria-hidden="false">
 </p>
 
 ## 🚀 Skills
