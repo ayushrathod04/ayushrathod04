@@ -1,11 +1,11 @@
 # Hi there! I'm Ayush Rathod, a Computer Science Student 👋
 
 <!-- Background Image -->
-<img src="<img src="https://i.redd.it/g38817mqb1361.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0.5px 0px; width: 351px;" alt="Github Wallpaper [1920x1080] : r/wallpaper" jsname="kn3ccd" aria-hidden="false">">
+<img src="<img src="https://i.redd.it/g38817mqb1361.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 197px; margin: 0.5px 0px; width: 351px;" alt="Github Wallpaper [1920x1080] : r/wallpaper" jsname="kn3ccd" aria-hidden="false"> 
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://your-profile-image-link.com" width="150" height="150" style="border-radius: 50%;" alt="Ayush Rathod">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWGy5181rQMKUk4AgahHorznSw89dBxbJ8A&amp;s" class="sFlh5c FyHeAf" alt="Ayush Rathod (@ayushrathod04) • Threads, Say more" jsname="JuXqh" style="max-width:320px;" data-ilt="1740911159179"> width="150" height="150" style="border-radius: 50%;" alt="Ayush Rathod">
 </p>
 
 ## 🚀 Skills
