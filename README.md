@@ -1,9 +1,12 @@
-# Hi there! I'm Ayush Rathod, a Computer Science Student 👋
-
-<!-- Background Image -->
+<!-- Animated Background -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C561BAQGjy1H9RWOWRw/company-background_10000/company-background_10000/0/1652819935509/compscitorontomet_cover?e=2147483647&amp;v=beta&amp;t=NrGqxpWlEoB8xsbRob-2Qa36sqHl2t_CEL86tG9Roio" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1500px; height: 117px; margin: 14.5px 0px; width: 351px;" alt="Computer Science at Toronto Metropolitan University Employees, Location,  Alumni | LinkedIn" jsname="kn3ccd" aria-hidden="false">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
 </p>
+
+<!-- Animated Wave Emoji -->
+<h1 align="center">Hi there! I'm Ayush Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+---
 
 ## 🚀 Skills
 
@@ -18,6 +21,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
+---
+
 ## 📫 Contact Me
 
 <p align="left">
@@ -30,6 +35,13 @@
   <a href="https://github.com/ayushrathod04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</p>
+
+---
+
+## 🔥 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrathod04&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 ⭐ Feel free to connect with me!
