@@ -1,7 +1,10 @@
 # Hi there! I'm Ayush Rathod, a Computer Science Student 👋
 
+<!-- Background Image -->
+<p align="center">
+  <img src="https://source.unsplash.com/1600x400/?technology,coding,ai" width="100%">
+</p>
 
-  
 ## 🚀 Skills
 
 <p align="left">
